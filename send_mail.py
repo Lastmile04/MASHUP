@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 import smtplib
 
 def send_mail(to, filename):
-    email_address = "mashupdivyam@gmail.com"
-    email_password = "ABCDefgh123"
+    email_address = "lastmile007@gmail.com"
+    email_password = "namesBond007"
 
     # create email
     msg = MIMEMultipart()
